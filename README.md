@@ -10,4 +10,4 @@ Margarita Salas
 [Wikipedia](https://es.wikipedia.org/wiki/Hedy_Lamarr)
 
 ##Licencias
-![image](licencia.png)
+![image](licencia.PNG)
