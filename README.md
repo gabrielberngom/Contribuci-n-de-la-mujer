@@ -9,5 +9,5 @@ Margarita Salas
 ## Referencias
 [Wikipedia](https://es.wikipedia.org/wiki/Hedy_Lamarr)
 
-##Licencias
+## Licencias
 ![image](licencia.PNG)
