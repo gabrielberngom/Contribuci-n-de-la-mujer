@@ -2,7 +2,7 @@
 En este proyecto estudiaremos  la contribución de la mujer a la computación.
 
 ## Contenidos
-- Hely Lamar
+- [Hely Lamar](hedyLamarr.md)
 - Marie Curie
 - Margarita Salas
 
