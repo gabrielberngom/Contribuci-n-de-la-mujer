@@ -1,4 +1,4 @@
-# Contribución-de-la-mujer
+# Contribución de la mujer
 En este proyecto estudiaremos  la contribución de la mujer a la computación.
 
 ## Contenidos
